@@ -1,6 +1,8 @@
 # Frosty-spikes
 For mapping project maybe
 
+This is all place holder and what if incase this project would get into the handful of people phase
+As of now, this is all basicly mock up stage
 
 
 FOLDERS
